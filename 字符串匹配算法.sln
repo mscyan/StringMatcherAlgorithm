@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Match02之Rabin_Karp算法"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Match03之有限自动机的匹配", "Match03之有限自动机的匹配\Match03之有限自动机的匹配.vcxproj", "{205E9CCB-2019-4B22-91D3-5A929D90CC34}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Match04之KMP算法", "Match04之KMP算法\Match04之KMP算法.vcxproj", "{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{205E9CCB-2019-4B22-91D3-5A929D90CC34}.Release|x64.Build.0 = Release|x64
 		{205E9CCB-2019-4B22-91D3-5A929D90CC34}.Release|x86.ActiveCfg = Release|Win32
 		{205E9CCB-2019-4B22-91D3-5A929D90CC34}.Release|x86.Build.0 = Release|Win32
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Debug|x64.ActiveCfg = Debug|x64
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Debug|x64.Build.0 = Debug|x64
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Debug|x86.Build.0 = Debug|Win32
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Release|x64.ActiveCfg = Release|x64
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Release|x64.Build.0 = Release|x64
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Release|x86.ActiveCfg = Release|Win32
+		{ED99E778-97C7-4A26-BB8B-1A960B9D1FAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
